@@ -14,3 +14,8 @@ void printReverseN(int n)
 	for (int i = n; i >= 1; i--)
 		cout << i << " ";
 }
+
+void hello(int a)
+{
+	cout << "mINHtri";
+}
